@@ -1,4 +1,4 @@
-some helpful links with trying to setup Laravel sail on local with docker and wsl ubuntu
+some helpful links with trying to setup Laravel sail on local with docker, wsl2 ubuntu as remote 
 and dbeaver on main machine as db client
 
 // this shows command for sail down
